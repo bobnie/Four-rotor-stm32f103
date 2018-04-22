@@ -1,0 +1,41 @@
+*** Creating Trace Output File '..\OBJ\Minibalance.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\obj\startup_stm32f10x_md.o"'
+### List of Objects: adding '"..\obj\minibalance.o"'
+### List of Objects: adding '"..\obj\delay.o"'
+### List of Objects: adding '"..\obj\sys.o"'
+### List of Objects: adding '"..\obj\usart.o"'
+### List of Objects: adding '"..\obj\led.o"'
+### List of Objects: adding '"..\obj\key.o"'
+### List of Objects: adding '"..\obj\oled.o"'
+### List of Objects: adding '"..\obj\adc.o"'
+### List of Objects: adding '"..\obj\timer.o"'
+### List of Objects: adding '"..\obj\motor.o"'
+### List of Objects: adding '"..\obj\encoder.o"'
+### List of Objects: adding '"..\obj\ioi2c.o"'
+### List of Objects: adding '"..\obj\24l01.o"'
+### List of Objects: adding '"..\obj\spi.o"'
+### List of Objects: adding '"..\obj\usart2.o"'
+### List of Objects: adding '"..\obj\control.o"'
+### List of Objects: adding '"..\obj\datascope_dp.o"'
+### List of Objects: adding '"..\obj\inv_mpu.o"'
+### List of Objects: adding '"..\obj\inv_mpu_dmp_motion_driver.o"'
+### List of Objects: adding '"..\obj\filter.o"'
+### List of Objects: adding '"..\obj\mpu6050.o"'
+### List of Objects: adding '"..\obj\show.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "..\obj\startup_stm32f10x_md.o" "..\obj\minibalance.o" "..\obj\delay.o" "..\obj\sys.o" "..\obj\usart.o" "..\obj\led.o" "..\obj\key.o" "..\obj\oled.o" "..\obj\adc.o" "..\obj\timer.o" "..\obj\motor.o" "..\obj\encoder.o" "..\obj\ioi2c.o" "..\obj\24l01.o" "..\obj\spi.o" "..\obj\usart2.o" "..\obj\control.o" "..\obj\datascope_dp.o" "..\obj\inv_mpu.o" "..\obj\inv_mpu_dmp_motion_driver.o" "..\obj\filter.o" "..\obj\mpu6050.o" "..\obj\show.o" --strict --scatter "..\OBJ\Minibalance.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list "..\OBJ\Minibalance.map" -o "..\OBJ\Minibalance.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\OBJ\Minibalance.axf'
+### ADS-LD Command File: '..\OBJ\Minibalance.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\OBJ\Minibalance.lnp', Handle=0x000007CC
+### Writing '.lnp' file
+### ADS-LD Command file '..\OBJ\Minibalance.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
